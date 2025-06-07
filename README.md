@@ -23,12 +23,14 @@ else:
 * If yes, it prints “Even Number”.
 * If not, it prints “Odd Number”.
 
+![Screenshot 2025-06-07 153436](https://github.com/user-attachments/assets/0e31efc5-2353-4c8e-bd16-b141f24586fa)
 
-![Screenshot 2025-06-07 154411](https://github.com/user-attachments/assets/212d7a9c-916f-4d9d-90a3-ca273b2ed5de)
+
 
 ## ✅ **2. Sum of Numbers from 1 to 50**
 
 ### 🧾 **Program:**
+
 
 ```python
 sum = 0
